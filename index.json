@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "title": "A lesson from Kevin Gates: Mobile privacy is achieved through compartmentalization",
+      "slug": "mobile-privacy-is-achieved-through-compartmentalization",
+      "url": "https://1337securitynews.com/mobile-privacy-is-achieved-through-compartmentalization/",
+      "description": "\"I got two phones, one for the b*****s and one for the dough.\"\n– Kevin Gates\n\nIf Kevin Gates had solid OpSec, those two phones wouldn’t just be about lifestyle. They’d be about compartmentalization. He’d probably be running GrapheneOS for the dough — the hardened, privacy-first platform",
+      "published": "2025-09-27T10:55:58.000Z",
+      "modified": "2025-12-04T20:47:01.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/09/2phones-kevin-gates-1.gif"
+    },
+    {
+      "title": "Why the U.S. Military Sets You Up for a Tech Career Better Than a Computer Science Degree",
+      "slug": "why-the-u-s-military-sets-you-up-for-a-tech-career-better-than-a-computer-science-degree",
+      "url": "https://1337securitynews.com/why-the-u-s-military-sets-you-up-for-a-tech-career-better-than-a-computer-science-degree/",
+      "description": "A lot of people think the fastest path to a high-paying tech job is a computer science degree. But if you talk to hiring managers in cybersecurity, networking, or IT infrastructure, you’ll often hear something different: military veterans—especially those with cyber, intel, or communications backgrounds—tend to",
+      "published": "2025-11-25T17:01:15.000Z",
+      "modified": "2025-12-04T20:38:47.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/12/US_Air_Force_Logo_Solid_Colour--1-.svg"
+    },
+    {
+      "title": "What is a CNO Developer?",
+      "slug": "what-is-a-cno-developer",
+      "url": "https://1337securitynews.com/what-is-a-cno-developer/",
+      "description": "Computer Network Operations (CNO) Developers represent an elite and highly specialized segment within the cybersecurity and software engineering communities. Far from the simplistic, often-maligned activities of \"script kiddies,\" a CNO Developer is an expert-level engineer who designs, develops, and deploys sophisticated software tools for offensive and defensive cyberspace",
+      "published": "2025-12-04T20:32:12.000Z",
+      "modified": "2025-12-04T20:32:12.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/12/Seal_of_the_U.S._National_Security_Agency.svg.png"
+    },
+    {
+      "title": "How to Host a Dark Web Website on TOR with OnionShare",
+      "slug": "how-to-host-a-dark-web-website-on-tor-with-onionshare",
+      "url": "https://1337securitynews.com/how-to-host-a-dark-web-website-on-tor-with-onionshare/",
+      "description": "Important: This article explains a high-level workflow and OpSec guidance for hosting a site reachable over the Tor network using OnionShare.\nI cannot publish step-by-step operational instructions, commands, or configuration details that would enable someone to set up an anonymous service. For further hands-on help, consult",
+      "published": "2025-10-10T15:40:43.000Z",
+      "modified": "2025-10-10T15:40:43.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/10/OnionShare.png"
+    },
+    {
+      "title": "Run Your Own Local LLM for Penetration Testing with Ollama",
+      "slug": "run-your-own-local-llm-for-penetration-testing-with-ollama",
+      "url": "https://1337securitynews.com/run-your-own-local-llm-for-penetration-testing-with-ollama/",
+      "description": "Run Your Own Local LLM for Penetration Testing with Ollama\n\nPrivacy is huge component of cybersecurity. Large Language Models (LLMs) are changing how penetration testers and ethical hackers approach vulnerability analysis, script generation, and threat assessment. Many gamers and professionals unknowingly have hardware that is powerful enough to run local",
+      "published": "2025-10-03T22:22:37.000Z",
+      "modified": "2025-10-03T22:22:37.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/10/ollama.png"
+    },
+    {
+      "title": "Top 5 tips to not get hacked while learning cybersecurity",
+      "slug": "top-5-tips-to-not-get-hacked-while-learning-cybersecurity",
+      "url": "https://1337securitynews.com/top-5-tips-to-not-get-hacked-while-learning-cybersecurity/",
+      "description": "Getting into cybersecurity is exciting — but it’s also easy to make mistakes that could leave you hacked or in trouble. The good news? With a few simple habits, you can keep your learning journey safe, fun, and drama-free.\n\nHere are five practical tips every beginner should follow:\n\n\n1.",
+      "published": "2025-09-27T10:23:10.000Z",
+      "modified": "2025-09-27T10:26:23.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/09/script_kiddie_pwned.png"
+    },
+    {
+      "title": "Do this every time you install Windows.",
+      "slug": "do-this-every-time-you-install-windows",
+      "url": "https://1337securitynews.com/do-this-every-time-you-install-windows/",
+      "description": "Everyone who values privacy and security can benefit from using the #1 Most Starred PowerShell project on GitHub: WinUtil by Chris Titus Tech. This free, open-source utility has quickly become one of the most trusted ways to take control of a Windows installation—whether you’re setting up a",
+      "published": "2025-09-27T01:45:54.000Z",
+      "modified": "2025-09-27T01:56:27.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/09/winutil.png"
+    },
+    {
+      "title": "Your Chinese-made CAC Reader from Amazon is a national security threat.",
+      "slug": "your-chinese-made-cac-reader-from-amazon-is-a-national-security-threat",
+      "url": "https://1337securitynews.com/your-chinese-made-cac-reader-from-amazon-is-a-national-security-threat/",
+      "description": "The Hidden Risk of Chinese-Made CAC Readers\n\nEvery servicemember with a Common Access Card (CAC) has, at some point, had to check email or log into a DoD website from a personal computer.\n\nThat’s not prohibited—and it probably shouldn’t be. Accessibility has to be balanced with",
+      "published": "2025-09-23T01:07:09.000Z",
+      "modified": "2025-09-23T01:56:59.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/09/cac-reader-us-military.png"
+    }
+  ],
+  "pages": [
+    {
+      "title": "About this site",
+      "slug": "about",
+      "url": "https://1337securitynews.com/about/",
+      "description": "1337securitynews is an independent publication launched in September 2025. If you subscribe today, you'll get full access to the website as well as email newsletters about new content when it's available. Your subscription makes this site possible, and allows 1337securitynews to continue to exist. Thank you!\n\n\nAccess all",
+      "published": "2025-09-22T19:50:56.000Z",
+      "modified": "2025-10-03T21:58:27.000Z",
+      "tags": [],
+      "feature_image": "../../images/2025/10/e50914_solid_color_background_icolorpalette.png"
+    }
+  ]
+}
